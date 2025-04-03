@@ -1,4 +1,5 @@
 # final-assignment
-1.Project on Hotspot coffee website using html and css.
-2.Project on movie theatre site using bootstrap.
-3.Project on space station site using CSS.
+this is the project that i have done during this course .
+ Hotspot coffee website project using html and css.
+ movie theatre site project using bootstrap.
+ space station site project using CSS.
